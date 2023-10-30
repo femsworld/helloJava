@@ -4,9 +4,9 @@ import org.femsworld.parent.Vehicle;
 
 public class Car extends Vehicle{
 	
-	public String steering;
-	public String musicSystem;
-	public String airCondtioner;
-	public String fridge;
-	public String entertainmentSystem;
+	private String steering;
+	private String musicSystem;
+	private String airCondtioner;
+	private String fridge;
+	private String entertainmentSystem;
 }

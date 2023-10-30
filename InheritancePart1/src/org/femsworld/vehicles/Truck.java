@@ -3,9 +3,9 @@ package org.femsworld.vehicles;
 import org.femsworld.parent.Vehicle;
 
 public class Truck extends Vehicle {
-	public String steering;
-	public String musicSystem;
-	public String airCondtioner;
-	public String container;
+	private String steering;
+	private String musicSystem;
+	private String airCondtioner;
+	private String container;
 	
 }
